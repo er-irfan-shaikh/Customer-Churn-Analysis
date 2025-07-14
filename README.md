@@ -40,7 +40,7 @@ A banking institution is experiencing customer churn and wants to:
   - Credit score bands
   - Account balance ranges
 
-![Summary Snapshot](Customer Churn Analysis png.png)
+![Summary Snapshot](CustomerChurnAnalysispng.png)
 
 ---
 
