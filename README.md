@@ -6,6 +6,15 @@ This Power BI project analyzes customer churn behavior across demographics, prod
 
 ---
 
+## 📁 PBIX File
+
+The full Power BI report is available here:
+
+👉 [`Customer_Churn_Analysis.pbix`](./PBIX/Customer_Churn_Analysis.pbix)
+
+You can download and open it using **Power BI Desktop** to explore the report, visuals, and DAX measures.
+
+
 ## 📌 Business Problem
 
 A banking institution is experiencing customer churn and wants to:
